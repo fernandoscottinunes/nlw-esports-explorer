@@ -1,2 +1,22 @@
-# nlw-esports
-Repositório para desenvolvimento NLW eSports RocketSeat - Semana 11 a 18/09/2022
+# NLW eSports
+![preview](./.github/preview.png)
+
+<br>
+
+>Trilha Explorer
+
+Projeto construído no evento Next Level Week da Rocketseat
+<br>
+Clique [aqui](https://fernandoscottinunes.github.io/nlw-esports-explorer/) para acessar!
+<br>
+
+## Tecnologias
+
+- HTML
+- CSS
+- Git e GitHub
+<br>
+<br>
+
+## Contato
+fernando.scottinunes@gmail.com
