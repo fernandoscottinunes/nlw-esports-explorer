@@ -16,7 +16,6 @@ Clique [aqui](https://fernandoscottinunes.github.io/nlw-esports-explorer/) para 
 - CSS
 - Git e GitHub
 <br>
-<br>
 
 ## Contato
 fernando.scottinunes@gmail.com
