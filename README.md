@@ -5,7 +5,7 @@
 
 >Trilha Explorer
 
-Projeto construído no evento Next Level Week da Rocketseat
+Projeto desenvolvido no evento Next Level Week (NLW) da Rocketseat, realizado na semana de 11 a 18/09/2022.
 <br>
 Clique [aqui](https://fernandoscottinunes.github.io/nlw-esports-explorer/) para acessar!
 <br>
